@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mediaCodec-demo</string>
+    <string name="processing">processing</string>
+    <string name="cancel">cancel</string>
+    <string name="converse_video_failed">converse video failed</string>
+    <string name="converse_video_cancel">converse video cancel</string>
+
+</resources>
